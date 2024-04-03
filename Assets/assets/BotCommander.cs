@@ -14,6 +14,7 @@ public class BotCommander : MonoBehaviour
     {
         ListaInstrucciones();
         ListaInstrucciones();
+        ListaInstrucciones();
     }
 
     private void Instruccion(string instruccion)
